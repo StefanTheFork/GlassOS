@@ -1,2 +1,2 @@
 # GlassOS
-The GlassOS app development thing (in short adt) 
+GlassOS basic includes everything (a clock help shutdown and text editor) that you might need! 
